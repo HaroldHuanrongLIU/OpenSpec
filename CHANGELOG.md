@@ -1,5 +1,17 @@
 # @fission-ai/openspec
 
+## 1.4.0
+
+### Minor Changes
+
+- [#1003](https://github.com/Fission-AI/OpenSpec/pull/1003) [`342ed43`](https://github.com/Fission-AI/OpenSpec/commit/342ed43e694abba65a3ea275f94ba3b77df85da3) Thanks [@Miss-you](https://github.com/Miss-you)! - ### New Features
+
+  - **Kimi CLI support** — OpenSpec can now initialize Kimi CLI as a supported skills-only tool using `.kimi/skills/`
+
+  ### Other
+
+  - Added Kimi-specific docs and init coverage aligned with skill-based `/skill:openspec-*` usage
+
 ## 1.3.1
 
 ### Patch Changes
